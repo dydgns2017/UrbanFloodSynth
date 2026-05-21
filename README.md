@@ -4,9 +4,9 @@ SynthFlood-Car: Synthetic and Refined Dataset for Vehicle Flood-Level Detection
 
 ## Highlights
 
-![title.png](./images/fig1.png)  
-![title.png](./images/fig2.png)  
-![title.png](./images/fig3.png)  
+![fig1.png](./images/fig1.png)  
+![fig2.png](./images/fig2.png)  
+![fig3.png](./images/fig3.png)  
 ![title.png](./images/errorbar_table5.png)  
 
 - Urban flooding poses increasing risks due to climate change, requiring accurate and scalable detection methods.
