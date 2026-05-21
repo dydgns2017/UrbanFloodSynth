@@ -1,10 +1,13 @@
 # UrbanFloodSynth
-Urban Flood SynthSet Dataset
+
+SynthFlood-Car: Synthetic and Refined Dataset for Vehicle Flood-Level Detection
 
 ## Highlights
 
 ![title.png](./images/fig1.png)  
 ![title.png](./images/fig2.png)  
+![title.png](./images/fig3.png)  
+![title.png](./images/errorbar_table5.png)  
 
 - Urban flooding poses increasing risks due to climate change, requiring accurate and scalable detection methods.
 
@@ -16,13 +19,14 @@ Urban Flood SynthSet Dataset
 
 ## Environments
 
-- python  version : 3.11.4
-- pytorch version :  2.0.1
-- GPU : A4500*8EA
+- python  version : 3.11.5
+- pytorch version : 2.10.0+cu128
+- GPU : A100*4EA
 
 ## Datasets
 
-- https://www.kaggle.com/datasets/yonghoonjung/urban-flood-synthset-with-real
+- https://www.kaggle.com/datasets/yonghoonjung/urban-flood-synthset-with-real (old-version)
+- https://doi.org/10.5281/zenodo.20323778 (new-version)
 
 ## Citations
 ```java
